@@ -1,0 +1,8 @@
+{
+  "name": "container",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "@nebulario/microservice-home-web": "link:./../microservice-home-web"
+  }
+}
