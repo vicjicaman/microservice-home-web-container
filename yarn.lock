@@ -58,10 +58,10 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-home-web@1.70.1-web-auth-home-config-prod":
-  version "1.70.1-web-auth-home-config-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-home-web/-/microservice-home-web-1.70.1-web-auth-home-config-prod.tgz#3db25c986b2fbaa7a8baa84371bc7adf41b3c857"
-  integrity sha512-tJIe0yjyjpd5E8yRMwfd8OuiQmw/Hyrq0n7B+sJWvp0LHnfpC0fkrVVwpiAgCtH7FJAOTS0KIWEsS6h+Lu2+Qg==
+"@nebulario/microservice-home-web@1.70.0-master":
+  version "1.70.0-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-home-web/-/microservice-home-web-1.70.0-master.tgz#32bba81bdd4596e4da7f1090d2fc213d4ef39d74"
+  integrity sha512-x4gv7+i05BdUJ4bl7jLCR2hyq7KHer2OUAVmXgortswH2NlTJ1aKo0eP/HbY/Avp5UET+6LFn0qTBkrlQ4xvYg==
   dependencies:
     "@apollo/react-hooks" "^3.1.0"
     "@nebulario/microservice-layout" "1.70.1-master"
