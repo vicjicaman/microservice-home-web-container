@@ -3,6 +3,6 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
-    "@nebulario/microservice-home-web": "1.70.1-web-auth-home-config-prod"
+    "@nebulario/microservice-home-web": "1.70.0-master"
   }
 }
