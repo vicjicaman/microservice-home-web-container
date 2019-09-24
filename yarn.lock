@@ -58,9 +58,28 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-home-web@link:../microservice-home-web":
-  version "0.0.0"
-  uid ""
+"@nebulario/microservice-home-web@1.70.1-web-auth-home-config-prod":
+  version "1.70.1-web-auth-home-config-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-home-web/-/microservice-home-web-1.70.1-web-auth-home-config-prod.tgz#3db25c986b2fbaa7a8baa84371bc7adf41b3c857"
+  integrity sha512-tJIe0yjyjpd5E8yRMwfd8OuiQmw/Hyrq0n7B+sJWvp0LHnfpC0fkrVVwpiAgCtH7FJAOTS0KIWEsS6h+Lu2+Qg==
+  dependencies:
+    "@apollo/react-hooks" "^3.1.0"
+    "@nebulario/microservice-layout" "1.70.1-master"
+    apollo-boost "^0.4.4"
+    apollo-cache-inmemory "^1.6.3"
+    connected-react-router "^6.5.2"
+    express "^4.17.1"
+    font-awesome "^4.7.0"
+    graphql "^14.5.4"
+    node-fetch "^2.6.0"
+    react "^16.9.0"
+    react-apollo "^3.1.0"
+    react-dom "^16.9.0"
+    react-redux "^7.1.1"
+    react-router "^5.0.1"
+    react-router-dom "^5.0.1"
+    reactstrap "^8.0.1"
+    redux "^4.0.4"
 
 "@nebulario/microservice-layout@1.70.1-master":
   version "1.70.1-master"
@@ -215,11 +234,6 @@ body-parser@1.19.0:
     qs "6.7.0"
     raw-body "2.4.0"
     type-is "~1.6.17"
-
-bootstrap@^4.3.1:
-  version "4.3.1"
-  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.3.1.tgz#280ca8f610504d99d7b6b4bfc4b68cec601704ac"
-  integrity sha512-rXqOmH1VilAt2DyPzluTi2blhk17bO7ef+zLLPlWvG494pDxcM234pJ8wTc/6R40UWizAIIMgxjvxZg5kmsbag==
 
 bytes@3.1.0:
   version "3.1.0"
@@ -485,11 +499,6 @@ iterall@^1.2.2:
   resolved "https://registry.yarnpkg.com/iterall/-/iterall-1.2.2.tgz#92d70deb8028e0c39ff3164fdbf4d8b088130cd7"
   integrity sha512-yynBb1g+RFUPY64fTrFv7nsjRrENBQJaX2UL+2Szc9REFrSNm1rpSXHGzhmAy7a9uv3vlvgBlXnf9RqmPH1/DA==
 
-jquery@^3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.4.1.tgz#714f1f8d9dde4bdfa55764ba37ef214630d80ef2"
-  integrity sha512-36+AdBzCL+y6qjw5Tx7HgzeGCzC81MDDgaUP8ld2zhx58HdqXGoBd+tHdrBMiyjGQs0Hxs/MLZTu/eHNJJuWPw==
-
 "js-tokens@^3.0.0 || ^4.0.0":
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
@@ -614,7 +623,7 @@ path-to-regexp@^1.7.0:
   dependencies:
     isarray "0.0.1"
 
-popper.js@^1.14.4, popper.js@^1.15.0:
+popper.js@^1.14.4:
   version "1.15.0"
   resolved "https://registry.yarnpkg.com/popper.js/-/popper.js-1.15.0.tgz#5560b99bbad7647e9faa475c6b8056621f5a4ff2"
   integrity sha512-w010cY1oCUmI+9KwwlWki+r5jxKfTFDVoadl7MSrIujHU5MJ5OR6HTDj6Xo8aoR/QsA56x8jKjA59qGH4ELtrA==
