@@ -3,6 +3,6 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
-    "@nebulario/microservice-home-web": "link:./../microservice-home-web"
+    "@nebulario/microservice-home-web": "1.70.0-blog-layout-upstream-dev"
   }
 }
