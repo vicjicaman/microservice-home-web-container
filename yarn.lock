@@ -58,33 +58,14 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-home-web@1.70.0-master":
-  version "1.70.0-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-home-web/-/microservice-home-web-1.70.0-master.tgz#32bba81bdd4596e4da7f1090d2fc213d4ef39d74"
-  integrity sha512-x4gv7+i05BdUJ4bl7jLCR2hyq7KHer2OUAVmXgortswH2NlTJ1aKo0eP/HbY/Avp5UET+6LFn0qTBkrlQ4xvYg==
-  dependencies:
-    "@apollo/react-hooks" "^3.1.0"
-    "@nebulario/microservice-layout" "1.70.1-master"
-    apollo-boost "^0.4.4"
-    apollo-cache-inmemory "^1.6.3"
-    connected-react-router "^6.5.2"
-    express "^4.17.1"
-    font-awesome "^4.7.0"
-    graphql "^14.5.4"
-    node-fetch "^2.6.0"
-    react "^16.9.0"
-    react-apollo "^3.1.0"
-    react-dom "^16.9.0"
-    react-redux "^7.1.1"
-    react-router "^5.0.1"
-    react-router-dom "^5.0.1"
-    reactstrap "^8.0.1"
-    redux "^4.0.4"
+"@nebulario/microservice-home-web@link:../microservice-home-web":
+  version "0.0.0"
+  uid ""
 
-"@nebulario/microservice-layout@1.70.1-master":
-  version "1.70.1-master"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-layout/-/microservice-layout-1.70.1-master.tgz#40c45a9edca09f80eb3d3472de148b34ef7e9458"
-  integrity sha512-X9wsA8VIyW9GHFoVQANPmSY/2l2Bmoya/oRukSMX/5KSs2oHiie8nvDhJtX6OdNJlKDJSM9pCGsr9GYwabEtAg==
+"@nebulario/microservice-layout@1.70.2-master":
+  version "1.70.2-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-layout/-/microservice-layout-1.70.2-master.tgz#04d69b7a601576b37c2b87aa03eedfd476de874b"
+  integrity sha512-ecHV1gwf7wMQ/vITdWhazq1tzshIuqZrW+ZQuhGTOifIE5XCKrIhhZyLG5x/V/QjN6RvNXkMGwwL2bP0EcZpSQ==
 
 "@types/node@>=6":
   version "12.7.5"
