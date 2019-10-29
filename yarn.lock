@@ -73,9 +73,30 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-home-web@link:../microservice-home-web":
-  version "0.0.0"
-  uid ""
+"@nebulario/microservice-home-web@1.70.0-s3-queue-prod":
+  version "1.70.0-s3-queue-prod"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-home-web/-/microservice-home-web-1.70.0-s3-queue-prod.tgz#ca01b561aa59a0a2fe1938e2287a27808d7e2801"
+  integrity sha512-7USVkLeipwVDofWubj+ZG0PyaE9NMrHMDrTF2Xkn+0AI2qxu0qB8O3RCyYQ4galVqpCl0PoxV6c7PTrf8qJUxg==
+  dependencies:
+    "@apollo/react-hooks" "^3.1.0"
+    "@nebulario/microservice-layout" "1.70.2-master"
+    "@nebulario/microservice-logger" "1.70.0-master"
+    "@nebulario/microservice-utils" "1.70.0-master"
+    apollo-boost "^0.4.4"
+    apollo-cache-inmemory "^1.6.3"
+    connected-react-router "^6.5.2"
+    express "^4.17.1"
+    font-awesome "^4.7.0"
+    graphql "^14.5.4"
+    node-fetch "^2.6.0"
+    react "^16.9.0"
+    react-apollo "^3.1.0"
+    react-dom "^16.9.0"
+    react-redux "^7.1.1"
+    react-router "^5.0.1"
+    react-router-dom "^5.0.1"
+    reactstrap "^8.0.1"
+    redux "^4.0.4"
 
 "@nebulario/microservice-layout@1.70.2-master":
   version "1.70.2-master"
