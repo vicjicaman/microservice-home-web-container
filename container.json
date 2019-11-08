@@ -1,9 +1,9 @@
 {
   "name": "repoflow/microservice-home-web-container",
-  "version": "1.70.0-home-container-update-v1-prod",
+  "version": "1.70.4-master",
   "source": {
     "type": "npm",
     "fullname": "@nebulario/microservice-home-web",
-    "version": "1.70.0-home-container-update-v1-prod"
+    "version": "1.70.4-master"
   }
 }
